@@ -1,0 +1,11 @@
+{
+  "name": "transition-table",
+  "version": "1.0.0",
+  "description": "Draw transition table",
+  "repository": "https://github.com/mehedimi/transition-table",
+  "author": "Mehedi Hasan",
+  "license": "MIT",
+  "dependencies": {
+    "laravel-mix": "^4.1.4"
+  }
+}
